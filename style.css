@@ -6,3 +6,16 @@
 .bi.bi-link{
     font-size: 1.2em;
 }
+.bi.bi-file-earmark-pdf{
+    font-size: 1.2em;
+}
+.titulo{
+    background-color: aliceblue;
+    padding: 4px;
+}
+.link-off{
+    color: grey;
+}
+.bi.bi-youtube{
+    font-size: 1.3em;
+}
