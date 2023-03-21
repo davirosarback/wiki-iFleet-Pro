@@ -19,3 +19,14 @@
 .bi.bi-youtube{
     font-size: 1.3em;
 }
+.btn-falha{
+    background-color: aliceblue;
+    border: none;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 4px;
+    border-left: 4px solid #3f3f3f;
+    min-width: 300px;
+    display: flex;
+    justify-content: flex-start;
+}
