@@ -30,11 +30,15 @@
     display: flex;
     justify-content: flex-start;
 }
+
+/*
+
+*/
 .root-container{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    
 }
 #root{
     /* min-height: 200px; */
@@ -45,8 +49,32 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 16px;
+    /* padding: 16px; */
 }
+
+table td{
+    border: 1px solid black;
+    text-align: center;
+}
+table button{
+    border: none;
+    padding: 4px;
+    border-radius: 4px;
+    background-color: aliceblue;
+    border: 2px solid #00a335;
+    
+    
+}
+table button:hover{
+    background-color:#00a335;
+    color: aliceblue;
+}
+table button:active{
+    background-color: aliceblue;
+    color:#00a335;
+}
+
+
 
 .Title{
     background-color:#00a335;
@@ -55,5 +83,6 @@
 }
 .tdTitle{
     padding: 8px;
-       
+    
+
 }
