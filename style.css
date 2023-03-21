@@ -30,3 +30,30 @@
     display: flex;
     justify-content: flex-start;
 }
+.root-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+#root{
+    /* min-height: 200px; */
+    /* width: 1000px; */
+    background-color: aliceblue;
+    border-radius: 8px;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+}
+
+.Title{
+    background-color:#00a335;
+    padding: 8px;
+    color: aliceblue;
+}
+.tdTitle{
+    padding: 8px;
+       
+}
