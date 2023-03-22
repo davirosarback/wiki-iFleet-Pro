@@ -52,11 +52,11 @@
     /* padding: 16px; */
 }
 
-table td{
+.tabela td{
     border: 1px solid black;
     text-align: center;
 }
-table button{
+.tabela button{
     border: none;
     padding: 4px;
     border-radius: 4px;
@@ -65,11 +65,11 @@ table button{
     
     
 }
-table button:hover{
+.tabela button:hover{
     background-color:#00a335;
     color: aliceblue;
 }
-table button:active{
+.tabela button:active{
     background-color: aliceblue;
     color:#00a335;
 }
